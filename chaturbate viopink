@@ -1,0 +1,281 @@
+/* edit the marked information below if sices are wrong          !!! this css is made for a 1920x1080 screen. in case of a biger or smaler screen, editing coud be useful !!!*/
+
+/* edit instruction: the things that nede to be edited are the numbers with the px at the end, and the number with the % at the end. */
+/*usualy making the number smaller, wil make the thing smaller, and making it biger, will make the thing bigger */
+
+.top-section {  
+    max-width: 1830px; /*edits the sice of "featured" till "advance options" ( the thing with the long, blue underline ) standart:"1830px"*/   
+}
+
+#hashtag_ticker {
+    min-width: 1890px; /* edits how far right, the tags apear. standart:"1890px"*/
+}
+
+.list {  
+    min-width: 1920px;  /*edits, how far right, the pictures and roomdescriptions apear. incase of to mutch empty space at the right, or the nede of scroling to the right, please edit. standart:"1920px"*/
+} 
+
+#header {
+    width: 99%; /*says how far right, the userpanel apears ( the thing where you see your name and your tokens) standart:"99%" */
+}
+
+/* end of sice edit | end of sice edit | end of sice edit | end of sice edit | end of sice edit | end of sice edit | end of sice edit | end of sice edit */
+/* end of sice edit | end of sice edit | end of sice edit | end of sice edit | end of sice edit | end of sice edit | end of sice edit | end of sice edit */
+
+.footer-holder {
+   max-height:1px;
+        padding: 1px 0 1px;
+}
+
+.content .c-1 {
+    margin: 0 5px 0 5px;
+}
+
+#header {
+   
+    background: #fff url(https://ssl-ccstatic.highwebmedia.com/images/bg-body.gif?588dc80f5af1) repeat-x;
+}
+
+
+
+body {
+   
+    background: #c200ff;
+}
+
+#header .section {
+   
+    background-color: #c200ff;
+    
+}
+
+.footer-holder {
+    
+    background: url(https://ssl-ccstatic.highwebmedia.com/images/bg-footer-holder.gif?cc1e09ef1e7a) repeat-x; visibility:hidden;
+}
+
+.top-section {
+   
+    background: #c200ff url(https://ssl-ccstatic.highwebmedia.com/images/xbg-top-block.gif?057b802f7fc7) repeat-x;
+   
+}
+
+.nav-bar {
+    
+    background: #c200ff;
+    
+}
+
+#hashtag_ticker a {
+    color: #edff00;
+   
+}
+
+
+.sub-nav a {
+    
+    color: #5e81a4;
+    background: #00FF00;
+    
+}
+
+.list li {
+   
+    background: #00FF00;
+    
+}
+
+table {
+    
+    border-color: black;
+    background-color: #F781F3
+    
+}
+
+#user_information .bottom {
+    background-color: #F781F3;
+    border-left: 0px solid #006b94;
+    border-right: 0px solid #006b94;
+    
+}
+
+#user_information .top {
+    background-color: #FF0040;
+   
+}
+
+.video-box {
+    background: #F781BE; 
+    border-radius: 0px 0px 0 0;
+    -webkit-border-radius: 0px 0px 0 0;
+    -moz-border-radius: 0px 0px 0 0;
+
+}
+
+.token_options, .broadcaster_token_options {
+   
+    background-color: #F781BE;
+    
+}
+
+.goal_display, .broadcaster_panel_goal_display {
+   
+    background-color: #F781BE;
+    
+}
+
+.panel .light_blue {
+    
+    background-color: #64FE2E;
+    
+}
+
+.goal_display table .dark_blue, .broadcaster_panel_goal_display table .dark_blue {
+    
+    background-color: #64FE2E;
+    
+}
+
+.block {
+    
+    background: #e0e0e000;
+    border: 0px solid #e0e0e000;
+    border-radius: 0px;
+    
+}
+
+.dismissable_notice {
+    
+    background-color: #ccc0;
+    
+}
+
+.chat-list .text {
+    
+    /* background-color: #F5A9E1; */
+    background-color: #F5A9E1
+    
+}
+
+.users-list, .settings-list, .chat-list {
+   
+    background: #F5A9E1;
+    padding: 0 0px;
+    color: #494949;
+    margin: 0 0 px;
+    
+}
+
+.chat-box {
+    
+    border: 0px solid #acacac00;
+    border-radius: 0px 0px 0 0;
+    -webkit-border-radius: 0px 0px 0 0;
+    -moz-border-radius: 0px 0px 0 0;
+    background: #fff0;
+}
+
+.buttons {
+    
+    margin: 0 0 00px;
+    padding: 0px 0 0 0px;
+    background: #7f7f7f00;
+    
+}
+
+.info-user .headline {
+    
+    margin: 0 0 0px;
+    background: #ffffff00;
+    padding: 0 0px;
+    
+}
+
+.bottompanel, .bio {
+    
+    background: #F5A9E1;
+
+}
+
+.info-user .headline {
+    
+    background: #F5A9E1;
+    
+}
+
+.buttons a {
+   
+    padding: 0 0px;
+    background: #40FF00;
+    border-radius: 0px 0px 0 0;
+    -webkit-border-radius: 0px 0px 0 0;
+    -moz-border-radius: 0px 0px 0 0;
+}
+
+.panel .light_blue {
+    
+    background-color: #64FE2E;
+    
+}
+
+.scroller {
+  
+  scrollbar-color: #00000000;
+ color: #00000000;
+    background-color: #00000000;
+ 
+}
+
+body::-webkit-scrollbar {
+    
+    color: #00000000;
+    background-color: #00000000;
+    
+}
+
+body::-webkit-scrollbar-track {
+    
+    color: #00000000;
+    background-color: #00000000;
+    visibility: hidden;
+    
+}
+
+body::-webkit-scrollbar-thumb {
+    
+  color: #40FF00;
+    background-color: #40FF00;
+    
+}
+
+div.chat-list {
+   scrollbar-color: black;
+}
+
+::-webkit-scrollbar-corner{
+color: #00000000;
+    background-color: #00000000;
+    visibility: hidden;
+}
+
+#entrance_terms .scroll, #broadcast_terms .scroll, #obs_broadcast_info .scroll, #daily_payout_info .scroll, #electronic_consent_terms .scroll {
+    
+    border: 1px solid #000000;
+
+}
+
+#entrance_terms, #broadcast_terms, #obs_broadcast_info, #daily_payout_info, #electronic_consent_terms {
+    
+    background-color: #000000;
+    color: #000000;
+    border: 2px solid #000000;
+    
+}
+
+#entrance_terms, #broadcast_terms, #obs_broadcast_info, #daily_payout_info, #electronic_consent_terms {
+   
+    background-color: #000000;
+    color: #000000;
+    border: 2px solid #000000;
+   
+}
